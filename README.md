@@ -12,6 +12,8 @@
 
 
 ##### _File Operation_
+
+`find / -name 'file_name'` find a file/directory
 `rm -r` remove directory
 
 
