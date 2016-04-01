@@ -12,4 +12,8 @@
 
 
 ##### _File Operation_
+`rm -r` remove directory
 
+
+##### _Others_
+`which {command}`/`type {command}` show path of a command 
