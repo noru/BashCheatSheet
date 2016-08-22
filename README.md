@@ -13,11 +13,11 @@
 ##### _File Operation_
 
 `find / -name 'file_name'` find a file/directory   
-`rm -r` remove directory
+`rm -r` remove directory   
 `stat {file_name}` display file status
 
 ##### _Crontab_ 
-`crontab -l` list all crontab jobs
+`crontab -l` list all crontab jobs   
 `crontab -e` edit crontab file
 
 ##### _Others_
